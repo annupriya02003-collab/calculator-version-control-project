@@ -1,0 +1,12 @@
+{
+  "name": "calculator-github-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js calculator demonstrating Git version control and automated testing with Jest",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
